@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 1190.6 841.9" style="enable-background:new 0 0 1190.6 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.51;fill:#FFFFFF;enable-background:new    ;}
+	.st1{fill:none;stroke:#DBDCDC;stroke-miterlimit:10;}
+	.st2{fill:#231815;}
+	.st3{font-family:'KozGoPro-Regular-83pv-RKSJ-H';}
+	.st4{font-size:12px;}
+	.st5{fill:#2D1606;stroke:#231815;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:#002A34;}
+	.st8{fill:none;stroke:#DD582E;stroke-width:0.75;stroke-miterlimit:10;}
+	.st9{fill:#EAB74F;}
+	.st10{fill:#8E955A;}
+	.st11{fill:none;stroke:#283A1C;stroke-width:2;stroke-miterlimit:10;}
+	.st12{fill:#283A1C;}
+	.st13{fill:none;stroke:#F5F6C8;stroke-width:3;stroke-miterlimit:10;}
+	.st14{fill:#5CA3D7;}
+	.st15{fill:none;stroke:#093759;stroke-width:2;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#231815;stroke-width:11;stroke-linejoin:round;}
+	.st18{fill:#093759;}
+	.st19{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st20{fill:#DF974B;}
+	.st21{fill:none;stroke:#C96519;stroke-width:2;stroke-miterlimit:10;}
+	.st22{fill:#43220E;}
+	.st23{fill:#412574;}
+	.st24{fill:#F1BB33;}
+	.st25{fill:#040000;}
+	.st26{fill:none;stroke:#040000;stroke-miterlimit:10;}
+	.st27{fill:none;stroke:#040000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st28{fill:#C96035;}
+	.st29{fill:#FFFFFF;stroke:#231815;stroke-width:0.75;stroke-miterlimit:10;}
+	.st30{fill:#041607;}
+	.st31{fill:none;stroke:#A2D19C;stroke-miterlimit:10;}
+	.st32{fill:#A2D19C;}
+	.st33{fill:#1B1006;}
+	.st34{fill:#E8B347;}
+	.st35{fill:none;stroke:#E8B347;stroke-width:2;stroke-miterlimit:10;}
+	.st36{fill:#B3CAE4;}
+	.st37{fill:none;stroke:#1A274C;stroke-miterlimit:10;}
+	.st38{fill:#808FAA;}
+	.st39{fill:#415027;}
+	.st40{fill:none;stroke:#F7D880;stroke-miterlimit:10;}
+	.st41{fill:#F7D880;}
+	.st42{fill:none;stroke:#ED731C;stroke-miterlimit:10;}
+	.st43{fill:#DEBC2D;}
+	.st44{fill:none;stroke:#0F1835;stroke-miterlimit:10;}
+	.st45{fill:none;stroke:#0F1835;stroke-width:0.75;stroke-miterlimit:10;}
+	.st46{fill:#0F1835;}
+	.st47{fill:none;stroke:#EAE5B3;stroke-width:3;stroke-miterlimit:10;}
+	.st48{fill:#C8653E;}
+	.st49{fill:none;stroke:#040000;stroke-width:0.75;stroke-miterlimit:10;}
+	.st50{fill:#FDF5E5;}
+	.st51{fill:none;stroke:#231815;stroke-width:2;stroke-miterlimit:10;}
+	.st52{fill:#001827;}
+	.st53{fill:none;stroke:#FBF2CC;stroke-miterlimit:10;}
+	.st54{fill:#F19337;}
+	.st55{fill:#301706;}
+	.st56{fill:none;stroke:#E8B347;stroke-miterlimit:10;}
+	.st57{fill:#5ABFC4;}
+	.st58{fill:#86AEB0;}
+	.st59{fill:none;stroke:#1C1D1D;stroke-miterlimit:10;}
+	.st60{fill:none;stroke:#1C1D1D;stroke-width:2;stroke-miterlimit:10;}
+	.st61{fill:#1C1D1D;}
+	.st62{fill:#C1C0C0;}
+	.st63{fill:none;stroke:#070E28;stroke-width:2;stroke-miterlimit:10;}
+	.st64{fill:none;stroke:#070E28;stroke-miterlimit:10;}
+	.st65{fill:#C23922;}
+	.st66{fill:#C84B2D;stroke:#231815;stroke-miterlimit:10;}
+	.st67{fill:#F3EBC7;stroke:#231815;stroke-miterlimit:10;}
+	.st68{fill:#151413;}
+	.st69{fill:#F3EBC7;}
+	.st70{fill:none;stroke:#E6782F;stroke-width:2;stroke-miterlimit:10;}
+	.st71{fill:#E6782F;}
+	.st72{fill:#38220C;}
+	.st73{fill:none;stroke:#F7E288;stroke-miterlimit:10;}
+	.st74{fill:none;stroke:#F7E288;stroke-width:0.5;stroke-miterlimit:10;}
+	.st75{fill:#F7E288;}
+	.st76{fill:#171C3E;}
+	.st77{fill:#F4BE2C;}
+	.st78{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linejoin:round;}
+	.st79{fill:none;stroke:#093759;stroke-miterlimit:10;}
+	.st80{fill:#28933A;}
+	.st81{fill:#EC7134;}
+	.st82{fill:none;}
+	.st83{fill:none;stroke:#38220C;stroke-miterlimit:10;}
+	.st84{fill:none;stroke:#38220C;stroke-width:2;stroke-miterlimit:10;}
+	.st85{fill:none;stroke:#231815;stroke-width:3;stroke-miterlimit:10;}
+	.st86{fill:none;stroke:#231815;stroke-miterlimit:10;}
+	.st87{fill:#F4CAC4;}
+	.st88{fill:#D5D5D5;}
+	.st89{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st90{fill:none;stroke:#1A274C;stroke-width:3;stroke-miterlimit:10;}
+	.st91{fill:none;stroke:#171C3E;stroke-width:3;stroke-miterlimit:10;}
+	.st92{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linejoin:round;}
+	.st93{font-family:'PShueiGoKinStd-B-83pv-RKSJ-H';}
+	.st94{font-size:63.37px;}
+</style>
+<g id="レイヤー_184">
+	<rect class="st0" width="1190.6" height="841.9"/>
+</g>
+<rect x="28.8" y="87.3" class="st1" width="100" height="100"/>
+<rect x="143.8" y="87.3" class="st1" width="100" height="100"/>
+<rect x="258.8" y="87.3" class="st1" width="100" height="100"/>
+<rect x="373.8" y="87.3" class="st1" width="100" height="100"/>
+<rect x="488.8" y="87.3" class="st1" width="100" height="100"/>
+<rect x="603.8" y="87.3" class="st1" width="100" height="100"/>
+<rect x="718.8" y="87.3" class="st1" width="100" height="100"/>
+<rect x="833.8" y="87.3" class="st1" width="100" height="100"/>
+<rect x="948.8" y="87.3" class="st1" width="100" height="100"/>
+<rect x="1063.8" y="87.3" class="st1" width="100" height="100"/>
+<rect x="28.8" y="228.1" class="st1" width="100" height="100"/>
+<rect x="143.8" y="228.1" class="st1" width="100" height="100"/>
+<rect x="258.8" y="228.1" class="st1" width="100" height="100"/>
+<rect x="373.8" y="228.1" class="st1" width="100" height="100"/>
+<rect x="488.8" y="228.1" class="st1" width="100" height="100"/>
+<rect x="603.8" y="228.1" class="st1" width="100" height="100"/>
+<rect x="718.8" y="228.1" class="st1" width="100" height="100"/>
+<rect x="833.8" y="228.1" class="st1" width="100" height="100"/>
+<rect x="948.8" y="228.1" class="st1" width="100" height="100"/>
+<rect x="1063.8" y="228.1" class="st1" width="100" height="100"/>
+<rect x="28.8" y="368.8" class="st1" width="100" height="100"/>
+<rect x="143.8" y="368.8" class="st1" width="100" height="100"/>
+<rect x="258.8" y="368.8" class="st1" width="100" height="100"/>
+<rect x="373.8" y="368.8" class="st1" width="100" height="100"/>
+<rect x="488.8" y="368.8" class="st1" width="100" height="100"/>
+<rect x="603.8" y="368.8" class="st1" width="100" height="100"/>
+<rect x="718.8" y="368.8" class="st1" width="100" height="100"/>
+<rect x="833.8" y="368.8" class="st1" width="100" height="100"/>
+<rect x="948.8" y="368.8" class="st1" width="100" height="100"/>
+<rect x="1063.8" y="368.8" class="st1" width="100" height="100"/>
+<rect x="28.8" y="509.6" class="st1" width="100" height="100"/>
+<rect x="143.8" y="509.6" class="st1" width="100" height="100"/>
+<rect x="258.8" y="509.6" class="st1" width="100" height="100"/>
+<rect x="373.8" y="509.6" class="st1" width="100" height="100"/>
+<rect x="488.8" y="509.6" class="st1" width="100" height="100"/>
+<rect x="603.8" y="509.6" class="st1" width="100" height="100"/>
+<rect x="718.8" y="509.6" class="st1" width="100" height="100"/>
+<rect x="833.8" y="509.6" class="st1" width="100" height="100"/>
+<rect x="948.8" y="509.6" class="st1" width="100" height="100"/>
+<rect x="1063.8" y="509.6" class="st1" width="100" height="100"/>
+<rect x="28.8" y="650.4" class="st1" width="100" height="100"/>
+<rect x="143.8" y="650.4" class="st1" width="100" height="100"/>
+<rect x="258.8" y="650.4" class="st1" width="100" height="100"/>
+<rect x="373.8" y="650.4" class="st1" width="100" height="100"/>
+<rect x="488.8" y="650.4" class="st1" width="100" height="100"/>
+<rect x="603.8" y="650.4" class="st1" width="100" height="100"/>
+<rect x="718.8" y="650.4" class="st1" width="100" height="100"/>
+<rect x="833.8" y="650.4" class="st1" width="100" height="100"/>
+<rect x="948.8" y="650.4" class="st1" width="100" height="100"/>
+<rect x="1063.8" y="650.4" class="st1" width="100" height="100"/>
+<g id="アイコン名">
+	<text transform="matrix(1 0 0 1 66.83 213.41)" class="st2 st3 st4">矢印</text>
+	<text transform="matrix(1 0 0 1 182.16 213.41)" class="st2 st3 st4">お金</text>
+	<text transform="matrix(1 0 0 1 279.5 213.41)" class="st2 st3 st4">メッセージ</text>
+	<text transform="matrix(1 0 0 1 412.83 213.41)" class="st2 st3 st4">再生</text>
+	<text transform="matrix(1 0 0 1 528.16 213.41)" class="st2 st3 st4">停止</text>
+	<text transform="matrix(1 0 0 1 631.5 213.41)" class="st2 st3 st4">アクセス</text>
+	<text transform="matrix(1 0 0 1 758.83 213.41)" class="st2 st3 st4">更新</text>
+	<text transform="matrix(1 0 0 1 856.16 213.41)" class="st2 st3 st4">お気に入り</text>
+	<text transform="matrix(1 0 0 1 983.5 213.41)" class="st2 st3 st4">いいね</text>
+	<text transform="matrix(1 0 0 1 1104.83 213.41)" class="st2 st3 st4">質問</text>
+	<text transform="matrix(1 0 0 1 42.83 351.9)" class="st2 st3 st4">チェック済み</text>
+	<text transform="matrix(1 0 0 1 176.16 351.9)" class="st2 st3 st4">ゴミ箱</text>
+	<text transform="matrix(1 0 0 1 273.5 351.9)" class="st2 st3 st4">アップロード</text>
+	<text transform="matrix(1 0 0 1 388.83 351.9)" class="st2 st3 st4">ダウンロード</text>
+	<text transform="matrix(1 0 0 1 522.16 351.9)" class="st2 st3 st4">ホーム</text>
+	<text transform="matrix(1 0 0 1 641.85 351.9)" class="st2 st3 st4">Wi-Fi</text>
+	<text transform="matrix(1 0 0 1 758.83 351.9)" class="st2 st3 st4">タグ</text>
+	<text transform="matrix(1 0 0 1 868.16 351.9)" class="st2 st3 st4">カメラ</text>
+	<text transform="matrix(1 0 0 1 983.5 351.9)" class="st2 st3 st4">メール</text>
+	<text transform="matrix(1 0 0 1 1092.83 351.9)" class="st2 st3 st4">メニュー</text>
+	<text transform="matrix(1 0 0 1 66.83 492.39)" class="st2 st3 st4">時間</text>
+	<text transform="matrix(1 0 0 1 182.16 492.39)" class="st2 st3 st4">電話</text>
+	<text transform="matrix(1 0 0 1 297.5 492.39)" class="st2 st3 st4">設定</text>
+	<text transform="matrix(1 0 0 1 412.83 492.39)" class="st2 st3 st4">共有</text>
+	<text transform="matrix(1 0 0 1 528.16 492.39)" class="st2 st3 st4">保存</text>
+	<text transform="matrix(1 0 0 1 637.5 492.39)" class="st2 st3 st4">カート</text>
+	<text transform="matrix(1 0 0 1 764.83 492.39)" class="st2 st3 st4">曲</text>
+	<text transform="matrix(1 0 0 1 874.16 492.39)" class="st2 st3 st4">写真</text>
+	<text transform="matrix(1 0 0 1 977.5 492.39)" class="st2 st3 st4">フォルダ</text>
+	<text transform="matrix(1 0 0 1 1110.83 492.39)" class="st2 st3 st4">本</text>
+	<text transform="matrix(1 0 0 1 66.83 630.89)" class="st2 st3 st4">拡大</text>
+	<text transform="matrix(1 0 0 1 182.16 630.89)" class="st2 st3 st4">縮小</text>
+	<text transform="matrix(1 0 0 1 297.5 630.89)" class="st2 st3 st4">検索</text>
+	<text transform="matrix(1 0 0 1 388.83 630.89)" class="st2 st3 st4">プロフィール</text>
+	<text transform="matrix(1 0 0 1 528.16 630.89)" class="st2 st3 st4">電波</text>
+	<text transform="matrix(1 0 0 1 637.5 630.89)" class="st2 st3 st4">ビデオ</text>
+	<text transform="matrix(1 0 0 1 752.83 630.89)" class="st2 st3 st4">グラフ</text>
+	<text transform="matrix(1 0 0 1 856.16 630.89)" class="st2 st3 st4">充電満タン</text>
+	<text transform="matrix(1 0 0 1 977.5 630.89)" class="st2 st3 st4">ミュート</text>
+	<text transform="matrix(1 0 0 1 1104.83 630.89)" class="st2 st3 st4">音量</text>
+	<text transform="matrix(1 0 0 1 60.83 773.38)" class="st2 st3 st4">グッド</text>
+	<text transform="matrix(1 0 0 1 176.16 773.38)" class="st2 st3 st4">バッド</text>
+	<text transform="matrix(1 0 0 1 291.5 773.38)" class="st2 st3 st4">明るさ</text>
+	<text transform="matrix(1 0 0 1 412.83 773.38)" class="st2 st3 st4">電源</text>
+	<text transform="matrix(1 0 0 1 522.16 773.38)" class="st2 st3 st4">マイク</text>
+	<text transform="matrix(1 0 0 1 637.5 773.38)" class="st2 st3 st4">閉じる</text>
+	<text transform="matrix(1 0 0 1 716.83 773.38)" class="st2 st3 st4">インフォメーション</text>
+	<text transform="matrix(1 0 0 1 859.52 773.38)" class="st2 st3 st4">Bluetooth</text>
+	<text transform="matrix(1 0 0 1 989.5 773.38)" class="st2 st3 st4">追加</text>
+	<text transform="matrix(1 0 0 1 1104.83 773.38)" class="st2 st3 st4">注意</text>
+</g>
+<g id="レイヤー_183">
+	<rect x="28.8" y="87.3" class="st5" width="100" height="100"/>
+	<rect x="28.8" y="227.9" class="st5" width="100" height="100"/>
+	<rect x="28.8" y="369.4" class="st5" width="100" height="100"/>
+	<rect x="143.7" y="369.4" class="st5" width="100" height="100"/>
+	<rect x="259" y="369.4" class="st5" width="100" height="100"/>
+	<rect x="374.6" y="369.4" class="st5" width="100" height="100"/>
+	<rect x="489.2" y="369.4" class="st5" width="100" height="100"/>
+	<rect x="604.1" y="369.4" class="st5" width="100" height="100"/>
+	<rect x="719.4" y="369.4" class="st5" width="100" height="100"/>
+	<rect x="144.2" y="227.9" class="st5" width="100" height="100"/>
+	<rect x="258.8" y="227.9" class="st5" width="100" height="100"/>
+	<rect x="374.2" y="227.9" class="st5" width="100" height="100"/>
+	<rect x="489.2" y="227.9" class="st5" width="100" height="100"/>
+	<rect x="604.1" y="227.9" class="st5" width="100" height="100"/>
+	<rect x="719.1" y="227.9" class="st5" width="100" height="100"/>
+	<rect x="834.5" y="227.9" class="st5" width="100" height="100"/>
+	<rect x="949.2" y="227.9" class="st5" width="100" height="100"/>
+	<rect x="1064.7" y="227.9" class="st5" width="100" height="100"/>
+	<rect x="834.5" y="368.9" class="st5" width="100" height="100"/>
+	<rect x="949.2" y="368.9" class="st5" width="100" height="100"/>
+	<rect x="1064.7" y="368.9" class="st5" width="100" height="100"/>
+	<rect x="28.8" y="509.1" class="st5" width="100" height="100"/>
+	<rect x="143.7" y="509.1" class="st5" width="100" height="100"/>
+	<rect x="259" y="509.1" class="st5" width="100" height="100"/>
+	<rect x="374.6" y="509.1" class="st5" width="100" height="100"/>
+	<rect x="489.2" y="509.1" class="st5" width="100" height="100"/>
+	<rect x="604.1" y="509.1" class="st5" width="100" height="100"/>
+	<rect x="719.4" y="509.1" class="st5" width="100" height="100"/>
+	<rect x="834.5" y="508.5" class="st5" width="100" height="100"/>
+	<rect x="949.2" y="508.5" class="st5" width="100" height="100"/>
+	<rect x="1064.7" y="508.5" class="st5" width="100" height="100"/>
+	<rect x="28.8" y="650.7" class="st5" width="100" height="100"/>
+	<rect x="143.7" y="650.7" class="st5" width="100" height="100"/>
+	<rect x="259" y="650.7" class="st5" width="100" height="100"/>
+	<rect x="374.6" y="650.7" class="st5" width="100" height="100"/>
+	<rect x="489.2" y="650.7" class="st5" width="100" height="100"/>
+	<rect x="604.1" y="650.7" class="st5" width="100" height="100"/>
+	<rect x="719.4" y="650.7" class="st5" width="100" height="100"/>
+	<rect x="834.5" y="650.2" class="st5" width="100" height="100"/>
+	<rect x="949.2" y="650.2" class="st5" width="100" height="100"/>
+	<rect x="1064.7" y="650.2" class="st5" width="100" height="100"/>
+	<rect x="143.7" y="87.3" class="st5" width="100" height="100"/>
+	<rect x="259.5" y="87.3" class="st5" width="100" height="100"/>
+	<rect x="374.4" y="87.3" class="st5" width="100" height="100"/>
+	<rect x="488.8" y="87.3" class="st5" width="100" height="100"/>
+	<rect x="604.1" y="87.3" class="st5" width="100" height="100"/>
+	<rect x="719.2" y="87.3" class="st5" width="100" height="100"/>
+	<rect x="834.6" y="87.3" class="st5" width="100" height="100"/>
+	<rect x="948.4" y="87.3" class="st5" width="100" height="100"/>
+	<rect x="1064.1" y="87.3" class="st5" width="100" height="100"/>
+</g>
+<g id="矢印">
+	<g id="レイヤー_143">
+		<circle class="st6" cx="78.3" cy="136.8" r="43.4"/>
+		<circle class="st7" cx="78.3" cy="136.8" r="40.3"/>
+		<circle class="st8" cx="78.3" cy="136.8" r="37.2"/>
+		<circle class="st8" cx="78.3" cy="136.8" r="35.6"/>
+	</g>
+	<g id="レイヤー_4">
+		<polygon class="st9" points="52.1,128.6 84.2,128.6 84.2,114.4 105.9,136.5 83.8,156.8 83.8,143.4 52.1,143.5 		"/>
+	</g>
+</g>
+<g id="お金">
+	<g id="レイヤー_144">
+		<circle class="st6" cx="193.8" cy="137.6" r="43.4"/>
+		<circle class="st10" cx="193.8" cy="137.6" r="39.5"/>
+		<circle class="st11" cx="193.9" cy="137.4" r="39.3"/>
+	</g>
+	<g id="レイヤー_7">
+		<circle class="st12" cx="193.4" cy="137.6" r="29.9"/>
+		<polyline class="st13" points="180.3,122.6 193.4,132.5 206.5,122.4 		"/>
+		<line class="st13" x1="193.5" y1="156.8" x2="193.8" y2="132.7"/>
+		<line class="st13" x1="181.5" y1="138.9" x2="205.9" y2="138.9"/>
+		<line class="st13" x1="181.5" y1="144.8" x2="205.9" y2="144.8"/>
+	</g>
+</g>
+<g id="メッセージ">
+	<g id="レイヤー_145">
+		<circle class="st6" cx="309.5" cy="137.3" r="43.4"/>
+		<circle class="st14" cx="309.5" cy="137.3" r="39.5"/>
+		<circle class="st15" cx="309.5" cy="137.4" r="39.2"/>
+		<circle class="st16" cx="309.5" cy="137.4" r="37.7"/>
+	</g>
+	<g id="レイヤー_18">
+		<path class="st17" d="M288.6,146.5"/>
+		<polygon class="st18" points="301.6,154 301.6,163.8 312.2,154 335.1,154 335.1,120.6 283.9,120.6 283.9,154 		"/>
+	</g>
+	<g id="レイヤー_19">
+		<line class="st19" x1="292.8" y1="127.7" x2="326.2" y2="127.7"/>
+		<line class="st19" x1="292.8" y1="136.9" x2="326.2" y2="136.9"/>
+		<line class="st19" x1="292.8" y1="146.2" x2="326.2" y2="146.2"/>
+	</g>
+</g>
+<g id="再生">
+	<g id="レイヤー_146">
+		<circle class="st6" cx="423.8" cy="136.9" r="43.4"/>
+		<circle class="st20" cx="423.8" cy="136.9" r="39.5"/>
+		<circle class="st21" cx="423.8" cy="137.3" r="36.1"/>
+	</g>
+	<g id="レイヤー_22">
+		<polygon class="st22" points="408.9,113.8 408.9,161.7 451.2,137.7 		"/>
+	</g>
+</g>
+<g id="停止">
+	<g id="レイヤー_142">
+		<circle class="st6" cx="538.8" cy="137.4" r="43.4"/>
+		
+			<ellipse transform="matrix(0.3827 -0.9239 0.9239 0.3827 205.6291 582.6457)" class="st23" cx="538.8" cy="137.4" rx="39.5" ry="39.5"/>
+		
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 316.5507 647.5207)" class="st16" cx="538.8" cy="137.7" rx="35.7" ry="35.7"/>
+	</g>
+	<g id="レイヤー_24">
+		<rect x="520.8" y="115.9" class="st24" width="12.5" height="43.4"/>
+		<rect x="544.3" y="116.2" class="st24" width="12.5" height="43.4"/>
+	</g>
+</g>
+<g id="アクセス">
+	<g id="レイヤー_140">
+		<circle class="st6" cx="653.8" cy="137.3" r="43.4"/>
+		<circle class="st25" cx="653.8" cy="137.7" r="35.9"/>
+		<circle class="st26" cx="653.8" cy="137.6" r="40.6"/>
+		<circle class="st27" cx="653.8" cy="137.6" r="39"/>
+	</g>
+	<g id="レイヤー_29">
+		<path class="st28" d="M654,166.1c0,0-13.1-14.6-19.6-28.4c-5.6-12,4-28.4,19.6-28.4c18.2,0,23.7,18.4,19.6,28.4
+			C667.7,152.4,654,166.1,654,166.1z"/>
+		<circle class="st29" cx="653.8" cy="125.7" r="6.9"/>
+	</g>
+</g>
+<g id="更新">
+	<circle class="st6" cx="768.8" cy="137.3" r="43.4"/>
+	<g id="レイヤー_38">
+		<circle class="st30" cx="768.8" cy="137.3" r="40.7"/>
+		<circle class="st31" cx="768.8" cy="137.3" r="38.7"/>
+	</g>
+	<g id="レイヤー_141">
+		<path class="st32" d="M786.5,117.9l4.5-5.1l3.2,17l-16.2-1.5l4.1-5.2c0,0-4.1-5.2-13.3-5.2s-20.3,5.6-20.3,21
+			c0,14.4,13.6,19.9,20.3,19.9c9.2,0,20.7-7.2,20.7-20.7h7.4c0,0-1.4,27.1-28.1,27.1c-20.7,0-27.8-16.5-27.8-26.6
+			c0-12.3,8.7-28.4,27.8-28.4C768.9,110.2,779.9,109.9,786.5,117.9z"/>
+	</g>
+</g>
+<g id="お気に入り">
+	<circle class="st6" cx="883.8" cy="137.6" r="43.4"/>
+	<circle class="st33" cx="883.8" cy="137.6" r="39.5"/>
+	<g id="レイヤー_41">
+		<polygon class="st34" points="877.8,128.2 884,107.3 890.1,128.5 912.7,128.6 895.3,142.5 900.5,161.5 883.6,149.8 867,161.5 
+			872.7,142.9 854.5,128.6 		"/>
+		<circle class="st35" cx="883.8" cy="137.7" r="39.2"/>
+	</g>
+</g>
+<g id="いいね">
+	<g id="レイヤー_42">
+		
+			<ellipse transform="matrix(0.2298 -0.9732 0.9732 0.2298 635.7062 1078.4292)" class="st6" cx="999.2" cy="137.6" rx="43.4" ry="43.4"/>
+		<circle class="st36" cx="1000" cy="137.7" r="39"/>
+		<circle class="st37" cx="1000" cy="137.7" r="40"/>
+		<path class="st6" d="M1000.7,167.7c0,0-19-13-25.5-21.5c-4.9-6.4-6.1-16.2-2.6-22.6c3.4-5.5,9.7-8.3,16-7.2
+			c7.5,1.4,12.2,9.5,12.2,9.5"/>
+		<path class="st6" d="M1000.7,167.7c0,0,19-13,25.5-21.5c4.9-6.4,6.1-16.2,2.6-22.6c-3.4-5.5-9.7-8.3-16-7.2
+			c-7.5,1.4-12.2,9.5-12.2,9.5"/>
+		<path class="st38" d="M1000.7,162.3c0,0-14.3-9.8-19.2-16.2c-3.7-4.8-4.6-12.2-2-17c2.5-4.1,7.3-6.2,12-5.4
+			c5.7,1.1,9.2,7.1,9.2,7.1"/>
+		<path class="st38" d="M1000.7,162.3c0,0,14.3-9.8,19.2-16.2c3.7-4.8,4.6-12.2,2-17c-2.5-4.1-7.3-6.2-12-5.4
+			c-5.7,1.1-9.2,7.1-9.2,7.1"/>
+	</g>
+</g>
+<g id="質問">
+	<g id="レイヤー_44">
+		<circle class="st6" cx="1113.8" cy="139.8" r="43.4"/>
+		<circle class="st39" cx="1113.8" cy="139.8" r="38.8"/>
+		<circle class="st40" cx="1114" cy="139.8" r="37"/>
+		<path class="st41" d="M1122.8,128.3c0-4.3-3.4-6.7-9-6.7c-4.4,0-8.2,1.9-11.5,5.7l-5.9-5.4c4.5-5.5,11.3-8.8,18.5-8.7
+			c10.4,0,18,4.8,18,14.3c0,10.5-15.6,11.8-14.6,21.7h-9.2C1107.6,137.9,1122.8,135.3,1122.8,128.3z M1113.8,154.1
+			c4.3,0,7.4,2.9,7.4,7s-3.2,7.1-7.4,7.1s-7.5-2.9-7.5-7.1S1109.5,154.1,1113.8,154.1L1113.8,154.1z"/>
+		<circle class="st42" cx="1114" cy="139.8" r="36.3"/>
+	</g>
+</g>
+<g id="チェック済み">
+	<g id="レイヤー_152">
+		<circle class="st6" cx="78.3" cy="278.2" r="43.4"/>
+		
+			<ellipse transform="matrix(4.531441e-02 -0.999 0.999 4.531441e-02 -203.1537 343.8622)" class="st43" cx="78.3" cy="278.2" rx="39.5" ry="39.5"/>
+		<circle class="st44" cx="78.3" cy="278.4" r="39.2"/>
+		
+			<ellipse transform="matrix(4.531444e-02 -0.999 0.999 4.531444e-02 -203.5832 344.2727)" class="st45" cx="78.3" cy="278.6" rx="37.3" ry="37.3"/>
+	</g>
+	<g id="レイヤー_46">
+		<polygon class="st46" points="58.3,252.3 99.3,252.3 99.3,293.6 88.8,304.4 58.3,304.4 		"/>
+	</g>
+	<g id="レイヤー_47">
+		<polyline class="st43" points="99,293.4 88.9,293.4 88.9,304 		"/>
+		<polyline class="st47" points="67,276.1 75.8,285 91.8,267.5 		"/>
+	</g>
+</g>
+<g id="ゴミ箱">
+	<g id="レイヤー_151">
+		<circle class="st6" cx="193.4" cy="278.5" r="43.4"/>
+		<circle class="st48" cx="193.3" cy="279" r="36.2"/>
+		<circle class="st49" cx="193.1" cy="278.6" r="40.9"/>
+		<circle class="st49" cx="193.3" cy="279" r="36.5"/>
+	</g>
+	<g id="レイヤー_48">
+		<polygon class="st50" points="175.6,261.5 175.6,302.9 212.4,302.9 212.4,261.5 217.6,261.5 217.6,259.4 169.9,259.4 169.9,261.4 
+					"/>
+		<line class="st51" x1="183.7" y1="270.6" x2="183.7" y2="294.2"/>
+		<line class="st51" x1="194.5" y1="270.6" x2="194.5" y2="294.2"/>
+		<line class="st51" x1="204.6" y1="270.6" x2="204.6" y2="294.2"/>
+	</g>
+	<rect x="185.1" y="253.2" class="st2" width="18.1" height="6.1"/>
+	<g id="レイヤー_49">
+		<rect x="168.7" y="258.3" class="st2" width="50.2" height="3.8"/>
+	</g>
+</g>
+<g id="アップロード">
+	<g id="レイヤー_150">
+		<circle class="st6" cx="308.7" cy="278" r="43.4"/>
+		<circle class="st52" cx="308.7" cy="278" r="39.5"/>
+		<circle class="st53" cx="308.7" cy="278" r="37.1"/>
+	</g>
+	<g id="レイヤー_50">
+		<polygon class="st54" points="303.3,289.5 303.3,265.8 292.8,265.8 309.1,249.9 324,266.1 314.1,266.1 314.2,289.5 		"/>
+		<polygon class="st54" points="291.6,285.5 291.6,293.6 324.8,293.6 324.8,285.5 329.8,285.5 329.8,297.7 286.7,297.7 286.7,285.5 
+					"/>
+	</g>
+</g>
+<g id="ダウンロード">
+	<g id="レイヤー_149">
+		<circle class="st6" cx="425.8" cy="278.4" r="43.4"/>
+		<circle class="st55" cx="425.8" cy="278.4" r="39.5"/>
+		<circle class="st56" cx="425.8" cy="278.4" r="37.6"/>
+	</g>
+	<g id="レイヤー_51">
+		<polygon class="st57" points="431.8,252.1 431.8,274.8 441.9,274.8 426.2,290.1 411.9,274.5 421.4,274.5 421.3,252.1 		"/>
+		<polygon class="st57" points="410.4,285.4 410.4,293.1 442.2,293.1 442.2,285.4 447.1,285.4 447.1,297.1 405.6,297.1 405.6,285.4 
+					"/>
+	</g>
+</g>
+<g id="ホーム">
+	<g id="レイヤー_148">
+		<circle class="st6" cx="540.2" cy="278.2" r="43.4"/>
+		
+			<ellipse transform="matrix(0.1891 -0.982 0.982 0.1891 164.8118 756.0201)" class="st58" cx="540.2" cy="278.2" rx="39.5" ry="39.5"/>
+		<circle class="st59" cx="540.2" cy="278.4" r="39.2"/>
+		<circle class="st60" cx="540.2" cy="278.4" r="36.6"/>
+	</g>
+	<g id="レイヤー_58">
+		<polygon class="st61" points="540.6,249.9 513.5,276.4 521.3,276.4 521.3,302 534.6,302 534.7,287 546.4,287 546.4,302 558.8,302 
+			558.8,275.9 566.8,275.9 557.3,266.5 557.3,255.6 552.5,255.6 552.5,262.6 		"/>
+	</g>
+</g>
+<g id="Wi-Fi">
+	<g id="レイヤー_147">
+		<circle class="st6" cx="652.6" cy="278.1" r="43.4"/>
+		<circle class="st62" cx="652.6" cy="278.1" r="39.5"/>
+		<circle class="st63" cx="652.6" cy="278.2" r="39.2"/>
+		<circle class="st64" cx="652.6" cy="278.4" r="36.1"/>
+	</g>
+	<g id="レイヤー_59">
+		<circle class="st65" cx="652.8" cy="294.2" r="6.3"/>
+		<path class="st65" d="M639.2,287.9c3.5-4.3,8.7-6.7,14.2-6.6c8.3,0,13,6.6,13,6.6l5.4-6.6c-4.9-4.5-11.3-7-18-7
+			c-7.3,0.1-14.3,2.8-19.6,7.7L639.2,287.9z"/>
+		<path class="st65" d="M628.8,275.9c0,0,8.3-8.9,24.6-8.9c8.5,0,16.7,2.6,23.7,7.4l5.6-5.3c0,0-10.3-9.5-29.2-9.5
+			c-20.6,0-30.5,10.6-30.5,10.6L628.8,275.9z"/>
+	</g>
+</g>
+<g id="タグ">
+	<g id="レイヤー_139">
+		<circle class="st6" cx="768.8" cy="278.1" r="43.4"/>
+		<circle class="st66" cx="768.8" cy="278.1" r="40.8"/>
+		<circle class="st67" cx="768.8" cy="278.1" r="31.4"/>
+	</g>
+	<g id="レイヤー_66">
+		<polygon class="st68" points="750.7,274.6 771.2,307.3 792.6,293.9 772.1,261.1 760.8,252.8 749,260.1 		"/>
+		<circle class="st69" cx="759.5" cy="264.9" r="3.1"/>
+	</g>
+</g>
+<g id="カメラ">
+	<g id="レイヤー_138">
+		<circle class="st6" cx="883.8" cy="277.8" r="43.4"/>
+		<circle class="st25" cx="883.6" cy="278.1" r="37.5"/>
+		<circle class="st70" cx="883.6" cy="277.8" r="39.5"/>
+	</g>
+	<g id="レイヤー_67">
+		<polygon class="st71" points="858,262.8 858,294.6 909.7,294.6 909.7,262.8 895.8,262.8 892.5,257.1 876.4,257 872.2,262.8 		"/>
+		<circle class="st6" cx="883.9" cy="277.4" r="8.7"/>
+	</g>
+</g>
+<g id="メール">
+	<g id="レイヤー_137">
+		
+			<ellipse transform="matrix(0.331 -0.9436 0.9436 0.331 405.7811 1128.0226)" class="st6" cx="998.4" cy="277.8" rx="43.4" ry="43.4"/>
+		
+			<ellipse transform="matrix(0.331 -0.9436 0.9436 0.331 405.7812 1128.0226)" class="st72" cx="998.4" cy="277.8" rx="39.5" ry="39.5"/>
+		<circle class="st73" cx="998.4" cy="278" r="39.7"/>
+		<circle class="st73" cx="998.4" cy="278.1" r="36.8"/>
+		
+			<ellipse transform="matrix(0.1735 -0.9848 0.9848 0.1735 551.2875 1213.0604)" class="st74" cx="998.4" cy="278.1" rx="34.8" ry="34.8"/>
+	</g>
+	<g id="レイヤー_70">
+		<polygon class="st75" points="976.1,268.6 976.1,292.2 1021.5,292.2 1021.5,268.6 998.8,280.3 		"/>
+		<polygon class="st75" points="976.1,267 999.1,278.3 1021.5,266.9 1021.5,262.7 976.1,262.7 		"/>
+	</g>
+</g>
+<g id="メニュー">
+	<g id="アイコン">
+		<g id="レイヤー_136">
+			<circle class="st6" cx="1113.8" cy="277.8" r="43.4"/>
+			<circle class="st76" cx="1113.8" cy="277.8" r="39.5"/>
+			<circle class="st16" cx="1113.8" cy="278.1" r="35.2"/>
+		</g>
+		<g id="レイヤー_80">
+			<rect x="1092.2" y="260.9" class="st77" width="43.8" height="6.6"/>
+			<rect x="1092.2" y="288.1" class="st77" width="43.8" height="6.6"/>
+			<rect x="1092.2" y="274.5" class="st77" width="43.8" height="6.6"/>
+		</g>
+	</g>
+</g>
+<g id="時間">
+	<g id="レイヤー_160">
+		<circle class="st6" cx="78.3" cy="418.8" r="43.4"/>
+		
+			<ellipse transform="matrix(0.9985 -5.530038e-02 5.530038e-02 0.9985 -23.0422 4.9704)" class="st10" cx="78.3" cy="418.8" rx="39.5" ry="39.5"/>
+		
+			<ellipse transform="matrix(3.327793e-02 -0.9994 0.9994 3.327793e-02 -342.7158 483.0831)" class="st11" cx="78.4" cy="418.7" rx="39.3" ry="39.3"/>
+		<polyline class="st13" points="64.7,403.8 77.9,413.8 91,403.6 		"/>
+		<line class="st13" x1="78" y1="438" x2="78.3" y2="414"/>
+		<line class="st13" x1="66" y1="420.2" x2="90.4" y2="420.2"/>
+		<line class="st13" x1="65.9" y1="426" x2="90.3" y2="426"/>
+	</g>
+	<g id="レイヤー_78">
+		<circle class="st12" cx="78.4" cy="418" r="29.6"/>
+		<path class="st13" d="M78.4,420.7L78.4,420.7z"/>
+		<line class="st13" x1="98" y1="428.8" x2="78.3" y2="419.4"/>
+	</g>
+</g>
+<g id="電話">
+	<g id="レイヤー_161">
+		<circle class="st6" cx="193.7" cy="418.8" r="43.4"/>
+		<circle class="st7" cx="193.7" cy="418.8" r="40.3"/>
+		<circle class="st8" cx="193.7" cy="418.8" r="37.2"/>
+		<circle class="st8" cx="193.7" cy="418.8" r="35.6"/>
+	</g>
+	<g id="レイヤー_79">
+		<path class="st9" d="M189.6,395.6l-0.4,10.9l-7.8,5c-1,8,5.3,20.9,17.8,21.6l2.9-3.9l11.6,1c0,0,0.9,13.2-1.6,13.1
+			c-19.4-0.7-25.7-8-30.7-14.5c-11.4-14.6-5.4-31.3-4.4-33.2C178.4,393.1,189.6,395.6,189.6,395.6z"/>
+	</g>
+</g>
+<g id="設定">
+	<g id="レイヤー_162">
+		<circle class="st6" cx="310.3" cy="418" r="43.4"/>
+		<circle class="st62" cx="310.3" cy="418" r="39.5"/>
+		<circle class="st63" cx="310.3" cy="418.2" r="39.2"/>
+		<circle class="st64" cx="310.3" cy="418.3" r="36.1"/>
+	</g>
+	<g id="レイヤー_86">
+		<path class="st65" d="M305.4,420.4v27.2h9.8v-27.2c0,0,11.2-4.5,11.2-16c0-12.6-12-14.7-12-14.7l-0.3,20.4h-7.6v-20.3
+			c0,0-12.2,1.5-12.2,14.8C294.3,418.7,305.4,420.4,305.4,420.4z"/>
+	</g>
+</g>
+<g id="レイヤー_75">
+	<g id="レイヤー_153">
+		<circle class="st6" cx="424.4" cy="420.9" r="43.4"/>
+		<circle class="st30" cx="424.2" cy="420.5" r="40.7"/>
+		<circle class="st31" cx="424.4" cy="420.5" r="38.7"/>
+	</g>
+	<g id="レイヤー_88">
+		<line class="st78" x1="407.5" y1="417.5" x2="433.9" y2="403.8"/>
+		<line class="st78" x1="406.6" y1="423.5" x2="432.4" y2="438.5"/>
+		<circle class="st32" cx="438.1" cy="440.5" r="6.9"/>
+		<circle class="st32" cx="438.1" cy="402.6" r="6.9"/>
+		<circle class="st32" cx="401.2" cy="419.5" r="6.9"/>
+	</g>
+</g>
+<g id="保存">
+	<g id="レイヤー_158">
+		<circle class="st6" cx="538.8" cy="420.9" r="43.4"/>
+		<circle class="st39" cx="538.8" cy="420.9" r="38.8"/>
+		<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 37.1487 885.5432)" class="st40" cx="539" cy="420.9" rx="37" ry="37"/>
+		<circle class="st42" cx="539" cy="420.9" r="36.3"/>
+	</g>
+	<g id="レイヤー_90">
+		<polygon class="st41" points="522.9,443.3 522.4,398.9 555.6,398.6 555.6,443.3 539.2,431.2 		"/>
+	</g>
+</g>
+<g id="カート">
+	<g id="レイヤー_171">
+		<circle class="st6" cx="654.1" cy="419.3" r="43.4"/>
+		<circle class="st14" cx="654.1" cy="419.3" r="39.5"/>
+		<circle class="st15" cx="654.1" cy="419.5" r="39.2"/>
+		<circle class="st16" cx="654.1" cy="419.5" r="37.7"/>
+		<path class="st17" d="M633.2,428.5"/>
+	</g>
+	<g id="レイヤー_94">
+		<polygon class="st18" points="642.2,436.8 669.9,436.8 677.4,410.4 635.4,410.4 		"/>
+		<polyline class="st79" points="626.1,401.4 633.5,401.4 636.2,411.3 		"/>
+		<circle class="st18" cx="648.3" cy="441.6" r="2.9"/>
+		<circle class="st18" cx="663.1" cy="441.6" r="2.9"/>
+	</g>
+</g>
+<g id="曲">
+	<g id="レイヤー_157">
+		<circle class="st6" cx="769.2" cy="418.8" r="43.4"/>
+		<circle class="st23" cx="769.2" cy="418.8" r="39.5"/>
+		<circle class="st16" cx="769.2" cy="419.1" r="35.7"/>
+	</g>
+	<g id="レイヤー_72">
+		<ellipse class="st24" cx="763" cy="435.6" rx="11.4" ry="8.9"/>
+		<polygon class="st24" points="769.5,435.7 770.8,393.2 776.8,392.7 793.7,403.9 790.4,408.2 777.3,399.4 774.6,436.4 		"/>
+	</g>
+</g>
+<g id="写真">
+	<g id="レイヤー_156">
+		<circle class="st6" cx="884.5" cy="419.3" r="43.4"/>
+		<circle class="st55" cx="884.5" cy="419.3" r="39.5"/>
+		<circle class="st56" cx="884.5" cy="419.3" r="37.6"/>
+	</g>
+	<g id="レイヤー_135">
+		<rect x="859.5" y="400.4" class="st6" width="50.3" height="36.9"/>
+	</g>
+	<g id="レイヤー_101">
+		<rect x="859" y="400.4" class="st57" width="50.7" height="36.9"/>
+		<polygon class="st80" points="859.3,423.7 874.4,411.2 888.2,424.1 895.8,417.6 909.6,428.9 909.6,437.3 859.3,437.3 		"/>
+		<circle class="st81" cx="898.8" cy="409.7" r="2.3"/>
+		<rect x="858.7" y="375.5" class="st82" width="51.7" height="38.2"/>
+	</g>
+</g>
+<g id="フォルダ">
+	<g id="レイヤー_155">
+		
+			<ellipse transform="matrix(0.3827 -0.9239 0.9239 0.3827 229.095 1182.1849)" class="st6" cx="999.2" cy="419.7" rx="43.4" ry="43.4"/>
+		
+			<ellipse transform="matrix(0.3827 -0.9239 0.9239 0.3827 229.0951 1182.1851)" class="st52" cx="999.2" cy="419.7" rx="39.5" ry="39.5"/>
+		
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 424.888 1338.7161)" class="st53" cx="999.2" cy="419.7" rx="37.1" ry="37.1"/>
+	</g>
+	<g id="レイヤー_73">
+		<rect x="976.7" y="410" class="st54" width="47.9" height="26.6"/>
+		<polygon class="st54" points="976.7,403.3 976.7,410 1024.6,410 1024.6,406.6 997.6,406.6 994.5,403.5 		"/>
+	</g>
+</g>
+<g id="本">
+	<g id="レイヤー_154">
+		<circle class="st6" cx="1114" cy="419.2" r="43.4"/>
+		<circle class="st72" cx="1114" cy="419.2" r="39.5"/>
+		<circle class="st73" cx="1114" cy="419.3" r="39.7"/>
+		<circle class="st73" cx="1113.9" cy="419.4" r="36.8"/>
+		<circle class="st74" cx="1113.9" cy="419.4" r="34.8"/>
+	</g>
+	<g id="レイヤー_74">
+		<polygon class="st75" points="1090.5,401.2 1113.9,404.9 1137.6,400.6 1137.6,436.9 1114.3,440.8 1090.5,436.6 		"/>
+		<line class="st83" x1="1113.9" y1="404.9" x2="1114.3" y2="440.8"/>
+	</g>
+	<g id="レイヤー_76">
+		<line class="st84" x1="1096.2" y1="408.1" x2="1109.7" y2="410.4"/>
+		<line class="st84" x1="1095.4" y1="418.5" x2="1108.8" y2="420.8"/>
+		<line class="st84" x1="1095.4" y1="429.4" x2="1108.8" y2="431.7"/>
+		<line class="st84" x1="1118.9" y1="410.4" x2="1132.2" y2="408.1"/>
+		<line class="st84" x1="1119.4" y1="420.8" x2="1132.8" y2="418.5"/>
+		<line class="st84" x1="1119.4" y1="431.7" x2="1132.8" y2="429.4"/>
+	</g>
+</g>
+<g id="拡大">
+	<g id="レイヤー_165">
+		<circle class="st6" cx="79.4" cy="559.6" r="43.4"/>
+		<circle class="st25" cx="79.4" cy="560" r="35.9"/>
+		<circle class="st26" cx="79.4" cy="559.9" r="40.6"/>
+		
+			<ellipse transform="matrix(0.9985 -5.530039e-02 5.530039e-02 0.9985 -30.8406 5.2493)" class="st27" cx="79.4" cy="559.9" rx="39" ry="39"/>
+		<circle class="st29" cx="79.4" cy="548" r="6.9"/>
+	</g>
+	<g id="レイヤー_93">
+		
+			<ellipse transform="matrix(0.9985 -5.530037e-02 5.530037e-02 0.9985 -30.7643 5.1841)" class="st28" cx="78.3" cy="558.5" rx="20.3" ry="20.3"/>
+		<line class="st85" x1="68.1" y1="558.8" x2="88.5" y2="558.8"/>
+		<line class="st85" x1="78.3" y1="548.2" x2="78.3" y2="568.8"/>
+	</g>
+	<g id="レイヤー_124">
+		<line class="st19" x1="100.7" y1="580.9" x2="92.5" y2="572.9"/>
+	</g>
+</g>
+<g id="縮小">
+	<g id="レイヤー_170">
+		<circle class="st6" cx="194.7" cy="559.3" r="43.4"/>
+		<circle class="st48" cx="194.6" cy="559.8" r="36.2"/>
+		<circle class="st49" cx="194.4" cy="559.5" r="40.9"/>
+		<circle class="st49" cx="194.6" cy="559.8" r="36.5"/>
+		<line class="st86" x1="185" y1="551.4" x2="185" y2="575"/>
+		<line class="st86" x1="195.8" y1="551.4" x2="195.8" y2="575"/>
+	</g>
+	<g id="レイヤー_95">
+		<path class="st51" d="M204.9,557.2"/>
+		<path class="st51" d="M184.5,557.2"/>
+		<line class="st51" x1="205.9" y1="569.7" x2="216.8" y2="580.3"/>
+		<circle class="st50" cx="193.2" cy="558.1" r="20.3"/>
+		<line class="st85" x1="183" y1="557.9" x2="203.4" y2="557.9"/>
+	</g>
+</g>
+<g id="検索">
+	<g id="レイヤー_159">
+		<circle class="st6" cx="309.5" cy="561.2" r="43.4"/>
+		<circle class="st43" cx="309.5" cy="561.2" r="39.5"/>
+		<circle class="st44" cx="309.5" cy="561.3" r="39.2"/>
+		<circle class="st45" cx="309.5" cy="561.6" r="37.3"/>
+		<polyline class="st43" points="330.2,576.4 320.1,576.4 320.1,587 		"/>
+	</g>
+	<g id="レイヤー_97">
+		<circle class="st46" cx="308.6" cy="557.5" r="20.3"/>
+	</g>
+	<g id="レイヤー_125">
+		<line class="st44" x1="331.9" y1="580.7" x2="322.4" y2="571.5"/>
+	</g>
+</g>
+<g id="プロフィール">
+	<g id="レイヤー_164">
+		<circle class="st6" cx="423.8" cy="559.6" r="43.4"/>
+		<circle class="st66" cx="423.8" cy="559.6" r="40.8"/>
+		<circle class="st67" cx="423.8" cy="559.6" r="31.4"/>
+	</g>
+	<g id="レイヤー_98">
+		<ellipse class="st68" cx="424.2" cy="546" rx="10.5" ry="10.1"/>
+		<path class="st68" d="M404,575.8c0,0,0.4-17.8,20-17.8s20.4,17.8,20.4,17.8H404z"/>
+	</g>
+</g>
+<g id="電波">
+	<g id="レイヤー_169">
+		<circle class="st6" cx="538.8" cy="559.6" r="43.4"/>
+		
+			<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -173.1375 248.7991)" class="st20" cx="538.8" cy="559.6" rx="39.5" ry="39.5"/>
+		<circle class="st21" cx="538.8" cy="560" r="36.1"/>
+	</g>
+	<g id="レイヤー_99">
+		<path class="st22" d="M521.6,562.6v-9.4c6.4,0.8,12.4,3.7,17,8.3c8.9,9.1,10.4,16.6,10.4,16.6h-10.7
+			C536.4,570.1,529.8,563.9,521.6,562.6z"/>
+		<path class="st22" d="M521.6,578.1v-9.2c0,0,7.6,2.1,9.4,9.2H521.6z"/>
+		<path class="st22" d="M521.6,547.4v-9.4c0,0,17.4,0.9,28,10.6c8.2,7.7,13.2,18.2,14,29.4h-9C554.6,578.1,551,550.4,521.6,547.4z"
+			/>
+	</g>
+</g>
+<g id="ビデオ">
+	<g id="レイヤー_163">
+		<circle class="st6" cx="654.1" cy="561.2" r="43.4"/>
+		<circle class="st33" cx="654.1" cy="561.2" r="39.5"/>
+		<circle class="st35" cx="654.1" cy="561.3" r="39.2"/>
+	</g>
+	<g id="レイヤー_100">
+		<polygon class="st34" points="631.5,546 631.5,577.1 670,577.1 670,564.6 682.5,574.8 682.5,549.8 670,558.4 670,546 		"/>
+	</g>
+</g>
+<g id="グラフ">
+	<g id="レイヤー_168">
+		<circle class="st6" cx="769.1" cy="559.9" r="43.4"/>
+		<circle class="st58" cx="769.1" cy="559.9" r="39.5"/>
+		<circle class="st59" cx="769.1" cy="560" r="39.2"/>
+		<circle class="st60" cx="769.1" cy="560" r="36.6"/>
+	</g>
+	<g id="レイヤー_102">
+		<circle class="st61" cx="768.8" cy="559.6" r="26.2"/>
+		<path class="st87" d="M769.1,533.5v27.7l20.7,14.4c0,0,12.5-15.5,0-32C782,533.5,769.1,533.5,769.1,533.5z"/>
+		<path class="st88" d="M769.1,561.2l20.5-17.6c0,0,6.2,7.2,5.6,16c-0.5,7.8-1.7,10.9-5.6,16L769.1,561.2z"/>
+	</g>
+</g>
+<g id="グッド">
+	<g id="レイヤー_174">
+		<circle class="st6" cx="79.4" cy="699.9" r="43.4"/>
+		
+			<ellipse transform="matrix(2.172375e-02 -0.9998 0.9998 2.172375e-02 -622.0304 764.1068)" class="st52" cx="79.4" cy="699.9" rx="39.5" ry="39.5"/>
+		<circle class="st53" cx="79.4" cy="699.9" r="37.1"/>
+	</g>
+	<g id="レイヤー_116">
+		<rect x="58" y="690.5" class="st54" width="8.5" height="28.8"/>
+		<path class="st54" d="M68.2,719.3v-29.8c0,0,4.5-11.5,7.7-13.2c1.8-1,6.7-0.7,6.2,3.7c-0.5,3-1.8,5.9-3.6,8.3h18.8
+			c7.4,0,5,14.6,1,14c0,0,4.8,10.2-0.8,15.4C93,721.7,77.8,721.7,68.2,719.3z"/>
+	</g>
+</g>
+<g id="バッド">
+	<g id="レイヤー_173">
+		<circle class="st6" cx="193.8" cy="701.5" r="43.4"/>
+		<circle class="st36" cx="193.8" cy="701.5" r="39"/>
+		<circle class="st37" cx="193.8" cy="701.5" r="40"/>
+	</g>
+	<g id="レイヤー_117">
+		<rect x="206.5" y="682.5" class="st38" width="8.5" height="28.8"/>
+		<path class="st38" d="M204.8,682.5v29.8c0,0-4.5,11.5-7.7,13.2c-1.8,0.9-6.7,0.7-6.2-3.7c0.5-3,1.8-5.9,3.6-8.3h-18.8
+			c-7.4,0-5-14.6-1-14c0,0-4.8-10.2,0.8-15.4C179.9,680.2,195.1,680.1,204.8,682.5z"/>
+	</g>
+</g>
+<g id="明るさ">
+	<g id="レイヤー_175">
+		<circle class="st6" cx="309.5" cy="700.9" r="43.4"/>
+		<circle class="st30" cx="309.3" cy="700.5" r="40.7"/>
+		<circle class="st31" cx="309.5" cy="700.5" r="38.7"/>
+	</g>
+	<g id="レイヤー_118">
+		<circle class="st32" cx="309.5" cy="700.9" r="14.6"/>
+		<circle class="st32" cx="309.3" cy="675.8" r="3.8"/>
+		<circle class="st32" cx="335" cy="700.9" r="3.8"/>
+		<circle class="st32" cx="309.5" cy="725.9" r="3.8"/>
+		<circle class="st32" cx="282.9" cy="700.4" r="3.8"/>
+		<circle class="st32" cx="291.3" cy="683.2" r="3.8"/>
+		<circle class="st32" cx="328.9" cy="683.8" r="3.8"/>
+		<circle class="st32" cx="327.9" cy="717.7" r="3.8"/>
+		<circle class="st32" cx="290.4" cy="717.7" r="3.8"/>
+	</g>
+</g>
+<g id="充電中">
+	<g id="レイヤー_167">
+		<circle class="st6" cx="884" cy="559.6" r="43.4"/>
+		<circle class="st76" cx="884" cy="559.6" r="39.5"/>
+		<circle class="st16" cx="884" cy="559.9" r="35.2"/>
+	</g>
+	<g id="レイヤー_103">
+		<polygon class="st77" points="867.4,541.4 867.4,583.4 900.2,583.4 900.2,541.4 891.7,541.4 891.7,535.8 877,535.8 877,541.2 		
+			"/>
+		<polygon class="st6" points="890,546.3 874.6,559.2 883.2,565.2 877.3,576.7 893.8,563.3 884.4,558.2 		"/>
+	</g>
+</g>
+<g id="ミュート">
+	<g id="レイヤー_166">
+		
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 286.4512 1455.9031)" class="st6" cx="998.8" cy="559.6" rx="43.4" ry="43.4"/>
+		
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 286.0365 1455.9155)" class="st25" cx="998.6" cy="559.9" rx="37.5" ry="37.5"/>
+		
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 286.2831 1455.7054)" class="st70" cx="998.6" cy="559.6" rx="39.5" ry="39.4"/>
+	</g>
+	<g id="レイヤー_104">
+		<polygon class="st71" points="975.1,549.1 975.1,569.3 984.3,569.3 998.9,577.7 998.9,541.5 984.5,548.9 		"/>
+		<line class="st89" x1="1023.3" y1="550.1" x2="1005.1" y2="569.1"/>
+		<line class="st89" x1="1005.1" y1="550.1" x2="1023.3" y2="569.1"/>
+	</g>
+</g>
+<g id="音量">
+	<g id="レイヤー_172">
+		<circle class="st6" cx="1113.8" cy="560" r="43.4"/>
+		<circle class="st36" cx="1114.7" cy="560.2" r="39"/>
+		<circle class="st37" cx="1114.7" cy="560.2" r="40"/>
+	</g>
+	<g id="レイヤー_105">
+		<polygon class="st38" points="1093,551 1093,571.3 1102.2,571.3 1116.8,579.6 1116.8,543.5 1102.4,550.8 		"/>
+		<path class="st90" d="M1123.7,548.1c4.9,2.7,7.9,7.8,7.7,13.4c0,5.5-2.9,10.6-7.7,13.4"/>
+		<path class="st90" d="M1126,542.5c0,0,11,5.1,11,19c0,7.8-4.2,15.1-11,19"/>
+	</g>
+</g>
+<g id="電源">
+	<g id="レイヤー_176">
+		<circle class="st6" cx="423.8" cy="700.4" r="43.4"/>
+		<circle class="st23" cx="423.8" cy="700.4" r="39.5"/>
+		<circle class="st16" cx="423.8" cy="700.7" r="35.7"/>
+	</g>
+	<g id="レイヤー_108">
+		<rect x="420.8" y="673.7" class="st24" width="6.1" height="23.1"/>
+		<path class="st24" d="M409,682.7l4.5,4.2c0,0-7.6,7.6-7.9,15.4s6.7,18.5,18.2,18.5c14.2,0,18.8-12.3,18.8-17.9
+			c0-6.7-2.5-11.9-8-15.7l3.8-4.5c6.4,4.5,10.1,11.8,10.2,19.6c0,13.2-11.8,24.7-24.7,24.7s-24.7-11.6-24.7-24.7
+			C399.1,694.6,402.8,687.3,409,682.7z"/>
+	</g>
+</g>
+<g id="マイク">
+	<g id="レイヤー_180">
+		<circle class="st6" cx="539.1" cy="700.4" r="43.4"/>
+		
+			<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -227.0952 259.5757)" class="st25" cx="538.9" cy="700.6" rx="37.5" ry="37.5"/>
+		<circle class="st70" cx="538.9" cy="700.4" r="39.5"/>
+	</g>
+	<g id="レイヤー_119">
+		<path class="st71" d="M538,673.7h2.3c4.7,0,8.5,3.8,8.5,8.5v18.2c0,4.7-3.8,8.5-8.5,8.5H538c-4.7,0-8.5-3.8-8.5-8.5v-18.2
+			C529.5,677.5,533.3,673.7,538,673.7z"/>
+		<path class="st71" d="M517.4,699.2h5.6c0,4.3,2.7,15.3,16.1,15.3s14.9-10.8,15-15.3h6.6c0,0-2.7,20.2-19.4,20.2v11.1h-4.7v-11.4
+			C532.1,719.1,517.4,715.4,517.4,699.2z"/>
+	</g>
+</g>
+<g id="close">
+	<g id="レイヤー_177">
+		<circle class="st6" cx="654.1" cy="700.4" r="43.4"/>
+		<circle class="st76" cx="654.1" cy="700.4" r="39.5"/>
+		<circle class="st16" cx="654" cy="700.6" r="35.2"/>
+	</g>
+	<g id="レイヤー_120">
+		<circle class="st77" cx="653.8" cy="700.6" r="26.7"/>
+		<line class="st91" x1="664.3" y1="689.7" x2="643.9" y2="711"/>
+		<line class="st91" x1="643.9" y1="689.7" x2="664.3" y2="711"/>
+	</g>
+</g>
+<g id="インフォメーション">
+	<g id="レイヤー_178">
+		<circle class="st6" cx="769.4" cy="700.4" r="43.4"/>
+		<circle class="st48" cx="769.3" cy="700.9" r="36.2"/>
+		<circle class="st49" cx="769.1" cy="700.5" r="40.9"/>
+		<circle class="st49" cx="769.3" cy="700.9" r="36.5"/>
+		<line class="st86" x1="759.7" y1="692.4" x2="759.7" y2="716.1"/>
+		<line class="st86" x1="770.5" y1="692.4" x2="770.5" y2="716.1"/>
+		<path class="st51" d="M779.6,698.2"/>
+		<path class="st51" d="M759.2,698.2"/>
+		<circle class="st50" cx="767.8" cy="699.1" r="20.3"/>
+		<line class="st51" x1="757.6" y1="699" x2="778" y2="699"/>
+	</g>
+	<g id="レイヤー_121">
+		<circle class="st50" cx="769.4" cy="700.6" r="26.7"/>
+		<rect x="765.8" y="697.2" class="st25" width="7.2" height="17.7"/>
+		<circle class="st25" cx="769.4" cy="689.8" r="3.9"/>
+	</g>
+</g>
+<g id="Bluetooth">
+	<g id="レイヤー_182">
+		<circle class="st6" cx="884.6" cy="700.6" r="43.4"/>
+		<circle class="st7" cx="884.6" cy="700.6" r="40.3"/>
+		<circle class="st8" cx="884.6" cy="700.6" r="37.2"/>
+		<circle class="st8" cx="884.6" cy="700.6" r="35.6"/>
+	</g>
+	<g id="レイヤー_130">
+		<polygon class="st9" points="882.1,693.8 882.1,672.1 903.9,689.7 890.5,700.9 902.7,711.9 882.4,729.6 882.4,708.8 869.8,720.7 
+			865.3,715.8 881.7,700.9 865.3,687.4 870.2,683 		"/>
+	</g>
+	<g id="レイヤー_123">
+		<polygon class="st7" points="887.4,684 887.4,697.3 894.8,690.6 		"/>
+		<polygon class="st7" points="887.4,706 887.4,719.3 894.8,712.7 		"/>
+	</g>
+</g>
+<g id="追加">
+	<g id="レイヤー_181">
+		<circle class="st6" cx="999.1" cy="700.9" r="43.4"/>
+		<circle class="st14" cx="999.1" cy="700.9" r="39.5"/>
+		
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 147.1007 1574.9562)" class="st15" cx="999.1" cy="701" rx="39.2" ry="39.2"/>
+		
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 147.1007 1574.9562)" class="st16" cx="999.1" cy="701" rx="37.7" ry="37.7"/>
+		<path class="st17" d="M978.2,710.1"/>
+	</g>
+	<g id="レイヤー_122">
+		<path class="st18" d="M984.1,679.4h30.6c3.1,0,5.7,2.5,5.7,5.7v30.6c0,3.1-2.5,5.7-5.7,5.7h-30.6c-3.1,0-5.7-2.5-5.7-5.7v-30.6
+			C978.4,681.9,980.9,679.4,984.1,679.4z"/>
+		<line class="st92" x1="987.7" y1="700.4" x2="1011.1" y2="700.4"/>
+		<line class="st92" x1="999.4" y1="689.2" x2="999.4" y2="712.5"/>
+	</g>
+</g>
+<g id="注意">
+	<g id="レイヤー_179">
+		<circle class="st6" cx="1113.8" cy="700.4" r="43.4"/>
+		<circle class="st20" cx="1113.8" cy="700.4" r="39.5"/>
+		<circle class="st21" cx="1113.8" cy="700.7" r="36.1"/>
+	</g>
+	<g id="レイヤー_131">
+		<text transform="matrix(1.21 0 0 1 1075.6699 725.34)" class="st22 st93 st94">！</text>
+	</g>
+</g>
+</svg>
